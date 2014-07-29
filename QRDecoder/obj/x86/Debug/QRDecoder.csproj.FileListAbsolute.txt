@@ -1,0 +1,50 @@
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\Visual Studio 2010\Projects\QRDecoder\QRDecoder\bin\Debug\QRDecoder.exe
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\Visual Studio 2010\Projects\QRDecoder\QRDecoder\bin\Debug\QRDecoder.pdb
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\Visual Studio 2010\Projects\QRDecoder\QRDecoder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\Visual Studio 2010\Projects\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.Form1.resources
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\Visual Studio 2010\Projects\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.Properties.Resources.resources
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\Visual Studio 2010\Projects\QRDecoder\QRDecoder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\Visual Studio 2010\Projects\QRDecoder\QRDecoder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\Visual Studio 2010\Projects\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.exe
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\Visual Studio 2010\Projects\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.pdb
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\SOSO\Project\C#\window\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.exe
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\SOSO\Project\C#\window\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.pdb
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\SOSO\Project\C#\window\QRDecoder\QRDecoder\bin\Debug\QRDecoder.exe
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\SOSO\Project\C#\window\QRDecoder\QRDecoder\bin\Debug\QRDecoder.pdb
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\SOSO\Project\C#\window\QRDecoder\QRDecoder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\SOSO\Project\C#\window\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.Form1.resources
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\SOSO\Project\C#\window\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.Properties.Resources.resources
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\SOSO\Project\C#\window\QRDecoder\QRDecoder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\SOSO\Project\C#\window\QRDecoder\QRDecoder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\SOSO\Project\C#\window\QRDecoder\QRDecoder\bin\Debug\AForge.Video.DirectShow.dll
+C:\Documents and Settings\aelbuni.IMSLIBYA\My Documents\SOSO\Project\C#\window\QRDecoder\QRDecoder\bin\Debug\AForge.Video.dll
+C:\Users\aelbuni\Documents\My Work\Misc Codes\QRDecoderStratched\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.exe
+C:\Users\aelbuni\Documents\My Work\Misc Codes\QRDecoderStratched\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.pdb
+C:\Users\aelbuni\Documents\My Work\Misc Codes\QRDecoderStratched\QRDecoder\QRDecoder\bin\Debug\QRDecoder.exe
+C:\Users\aelbuni\Documents\My Work\Misc Codes\QRDecoderStratched\QRDecoder\QRDecoder\bin\Debug\QRDecoder.pdb
+C:\Users\aelbuni\Documents\My Work\Misc Codes\QRDecoderStratched\QRDecoder\QRDecoder\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\aelbuni\Documents\My Work\Misc Codes\QRDecoderStratched\QRDecoder\QRDecoder\bin\Debug\AForge.Video.dll
+C:\Users\aelbuni\Documents\My Work\Misc Codes\QRDecoderStratched\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.csprojResolveAssemblyReference.cache
+C:\Users\aelbuni\Documents\My Work\Misc Codes\QRDecoderStratched\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.Form1.resources
+C:\Users\aelbuni\Documents\My Work\Misc Codes\QRDecoderStratched\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.Properties.Resources.resources
+C:\Users\aelbuni\Documents\My Work\Misc Codes\QRDecoderStratched\QRDecoder\QRDecoder\obj\x86\Debug\QRDecoder.csproj.GenerateResource.Cache
+C:\Users\aelbuni\Desktop\c#\QRDecoder\obj\x86\Debug\QRDecoder.exe
+C:\Users\aelbuni\Desktop\c#\QRDecoder\obj\x86\Debug\QRDecoder.pdb
+C:\Users\aelbuni\Desktop\c#\QRDecoder\bin\Debug\QRDecoder.exe
+C:\Users\aelbuni\Desktop\c#\QRDecoder\bin\Debug\QRDecoder.pdb
+C:\Users\aelbuni\Desktop\c#\QRDecoder\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\aelbuni\Desktop\c#\QRDecoder\bin\Debug\AForge.Video.dll
+C:\Users\aelbuni\Desktop\c#\QRDecoder\obj\x86\Debug\QRDecoder.csprojResolveAssemblyReference.cache
+C:\Users\aelbuni\Desktop\c#\QRDecoder\obj\x86\Debug\QRDecoder.Form1.resources
+C:\Users\aelbuni\Desktop\c#\QRDecoder\obj\x86\Debug\QRDecoder.Properties.Resources.resources
+C:\Users\aelbuni\Desktop\c#\QRDecoder\obj\x86\Debug\QRDecoder.csproj.GenerateResource.Cache
+C:\Users\aelbuni\Desktop\t\.Net-QR-Decoder\QRDecoder\obj\x86\Debug\QRDecoder.exe
+C:\Users\aelbuni\Desktop\t\.Net-QR-Decoder\QRDecoder\obj\x86\Debug\QRDecoder.pdb
+C:\Users\aelbuni\Desktop\t\.Net-QR-Decoder\QRDecoder\bin\Debug\QRDecoder.exe
+C:\Users\aelbuni\Desktop\t\.Net-QR-Decoder\QRDecoder\bin\Debug\QRDecoder.pdb
+C:\Users\aelbuni\Desktop\t\.Net-QR-Decoder\QRDecoder\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\aelbuni\Desktop\t\.Net-QR-Decoder\QRDecoder\bin\Debug\AForge.Video.dll
+C:\Users\aelbuni\Desktop\t\.Net-QR-Decoder\QRDecoder\obj\x86\Debug\QRDecoder.csprojResolveAssemblyReference.cache
+C:\Users\aelbuni\Desktop\t\.Net-QR-Decoder\QRDecoder\obj\x86\Debug\QRDecoder.Form1.resources
+C:\Users\aelbuni\Desktop\t\.Net-QR-Decoder\QRDecoder\obj\x86\Debug\QRDecoder.Properties.Resources.resources
+C:\Users\aelbuni\Desktop\t\.Net-QR-Decoder\QRDecoder\obj\x86\Debug\QRDecoder.csproj.GenerateResource.Cache
