@@ -1,4 +1,4 @@
-.Net-QR-Decoder
+.Net-QR-Decoder using Webcam
 ===============
 
 The notion behind developing a sample C# code is to illustrate the basic steps need to be taken for .Net developers to build a simple QR Decoder, and show the developers how to use the famous zxing library to decode 2D barcode library in realtime, either by capturing pictures from a webcam or by uploading a static 2D barcode picture.
